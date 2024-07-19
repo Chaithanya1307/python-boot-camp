@@ -1,0 +1,11 @@
+v1=int(input())
+orginal==v1
+n=0
+while(num!=0):
+     orginal/=10
+      n++
+   res=mathpow(rem,n)
+if(orginal==v1):
+   print("it is an armstrong")
+else:
+   print("it is not an armstrong")     

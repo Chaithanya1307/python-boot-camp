@@ -1,0 +1,14 @@
+#var1=int(input())
+#var2=int(input())
+#print(var1+var2)
+#print(var1-var2)
+#print(var1*var2)
+#print(var1/var2)
+age=int(input())
+age=25
+if(age>=18 and age<24):
+    print("two wheeler")
+elif(age>=24 and age<45):
+    print("four wheeler")
+else:
+    print(All)

@@ -1,0 +1,12 @@
+x1=int(input())
+y1=int(input())
+if(x1>140 and y1%2  and body fat<12%):
+    print("eligiable")
+    h1=True
+elif(x2=118 to 148 and y2%7==0 and body fat2<14):
+     printf(" eligiable")
+     h2=true
+ if(h1=true and h2=true and h3=true):
+     print("x,y,z are travell in same plane")
+else:
+     print("no")
