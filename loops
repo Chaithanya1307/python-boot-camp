@@ -1,0 +1,21 @@
+#my_list=list(map(int,input(),split(" ")))
+#s="hello world"
+#for i in range(len(s)):
+    #print(s[i],end="\n")
+#print()
+#my_list=list(map(int,input(),split)(" "))
+#for i in range(1,100):
+   #print(i)
+#my_list=[]
+#for i in range(1,100+1):
+  # my_list.append(i)
+#print(my_list)
+#my_list=list(map(int,input().split()))
+#for i in range(0,len(my_list),2):
+       #print(my_list[i])
+my_list=list(map(int,input().spilit()))
+for i in range(0,len,2):
+    if(i%2==0):
+       count+=1
+print(count)       
+ 

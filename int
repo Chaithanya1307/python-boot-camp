@@ -1,0 +1,13 @@
+my_list=list(map(int,input().split()))
+sum=0
+count=0
+for i in range(0,len(my_list)):
+    if(i%2==0):
+        count+=1
+        sum+=my_list[i]
+        s=sum/count
+print( " avg no",s)        
+        
+          
+          
+        
